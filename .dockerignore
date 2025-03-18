@@ -1,0 +1,7 @@
+.github
+.tool-versions
+.vscode
+.git
+.gitignore
+.dockerignore
+.ruby-version
